@@ -1,2 +1,3 @@
 # Estructuras-de-Datos-Parcial
-Aqui esta mi codigo para el parcial
+Hecho por: Juan Manuel Zapata Olaya
+EAFIT
